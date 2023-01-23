@@ -1,5 +1,4 @@
 #Simple script to create pivot table by using 2 lists:
-- data from Facebook adsManager
-- data from amoCRM
-
-Later will recode it and add some examples
+data from Facebook adsManager
+Has **too much hardcode**
+Will recode to setup automatic pivot table with merging of 2 sheets
