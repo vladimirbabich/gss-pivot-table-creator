@@ -1,4 +1,5 @@
-#Simple script to create pivot table by using 2 lists:
-data from Facebook adsManager
-Has **too much hardcode**
-Will recode to setup automatic pivot table with merging of 2 sheets
+##Simple script to create and format a pivot table
+I code this quickly and for personal use, which means that:
+- it contains hardcode
+- luck of commetaries
+- script use only 1 sheet for building pivot table
